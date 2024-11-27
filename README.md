@@ -69,6 +69,19 @@ O projeto realiza as seguintes tarefas:
 
 ---
 
+
+```
+
+---
+
+## 🖥️ Descrição da Aplicação Docker  
+
+A aplicação configurada é um servidor **Nginx** básico. Ela serve uma página HTML estática para validar o funcionamento da infraestrutura.
+
+---
+
+
+
 ## 📦 Estrutura do Projeto  
 
 Projeto_Terraform_DevOps/
@@ -89,16 +102,6 @@ Projeto_Terraform_DevOps/
 │       ├── main.tf
 │       ├── variables.tf
 │       ├── outputs.tf
-
-```
-
----
-
-## 🖥️ Descrição da Aplicação Docker  
-
-A aplicação configurada é um servidor **Nginx** básico. Ela serve uma página HTML estática para validar o funcionamento da infraestrutura.
-
----
 
 
 
